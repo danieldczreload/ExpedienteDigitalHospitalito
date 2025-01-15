@@ -398,3 +398,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# ...existing code...
+appsettings.Development.json
+# ...existing code...
